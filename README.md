@@ -11,7 +11,7 @@
 ## Contents ##
 
 1) [Introduction](#1-introduction)
-2) [Project Idea](#2-project-idea)
+2) [Project Idea](#2-project-idea-and-objective)
 3) [Motivation](#3-motivation)
 4) [Project Flow Outline](#4-project-flow-outline)
 5) [Data Sources](#5-data-sources)
@@ -30,7 +30,7 @@ Common knowledge and current studies indicate several major elements affecting t
 
 
 
-## 2. Project Idea ##
+## 2. Project Idea and Objective ##
 
 It is known that electric vehicles (EVs) are becoming more and more common. However, when you check the relevant data and statistics, some states seem to be far ahead while others fall behind in EV adoption. It’s easy to assume that wealthier states or those with more public charging stations tend to have more EVs. Still, I’m curious about the states that don’t follow this simple trend. Why might a state with an average income have a surprisingly high number of EVs? Or why might a wealthy state have fewer than expected? 
 
