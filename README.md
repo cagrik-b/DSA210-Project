@@ -4,7 +4,7 @@
 ***Çağrı KARAKAŞ 33916***
 
 
-*I am Çağrı Karakaş. My student number is 33916. I am a Data Science and Analytics major at Sabancı University. This repository documents my DSA210 Term Project where I am going to investigate electric vehicle adoption rates and the reasons behind these rates by analyzing USA data.*
+*I am Çağrı Karakaş. My student number is 33916. I am a Data Science and Analytics major at Sabancı University. This repository documents my DSA210 Term Project where I am going to investigate electric vehicle adoption rates and the reasons behind these rates by analyzing elated US data.*
 
 
 
@@ -15,6 +15,7 @@
 3) [Motivation](#3-motivation)
 4) [Project Flow Outline](#4-project-flow-outline)
 5) [Data Sources](#5-data-sources)
+6) [Hypothesis](#6-hypothesis)
 
 
 ## 1. Introduction ##
@@ -117,6 +118,25 @@ Moreover; this subject is a up-to-date topic, so it seemed to me like a suitable
 
   -*Collection Method*: Downloaded annual state summary CSV from
     https://www.epa.gov/outdoor-air-quality-data
+
+
+## 6. Hypothesis ##   
+
+**Overall Relationship**
+
+*Null Hypothesis (H₀)*: The combined economic, infrastructure, demographic, and environmental characteristics of a state do not statistically significantly correlate with its EV adoption rate (EVs per capita).
+
+*Alternative Hypothesis (H₁)*: EV adoption rates will be substantially greater in states with attributes that are generally linked to higher adoption, such as wealth, more chargers, more education, denser populations, and possibly worse air quality.
+
+**Deviation from Baseline**
+
+*Null Hypothesis (H₀-deviation)*: No other measured factors, such as population density, educational attainment, or air quality, significantly explain the remaining variation in EV adoption rates after controlling for core economic (GDP per capita) and infrastructure (chargeing station availability) factors.
+
+*Alternative Hypothesis (H₁-deviation)*: Some states do differ from observed EV adoption levels, and this is largely explained by factors other than basic wealth and charger abundance. (For example, negative residuals (lower-than-expected adoption) may be linked to lower educational attainment, whereas positive residuals (higher-than-expected adoption) may be linked to higher population density or worse air quality.)
+
+
+
+
 
     
 
