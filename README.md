@@ -65,6 +65,7 @@ Moreover; this subject is a up-to-date topic, so it seemed to me like a suitable
 ## 5. Data Sources ##
 
 *Note: 2024 data will be used, since it is the only common and most recent year for all data*
+*Note: All data can be seen in the repository*
 
 **Primary (Dependent) Variable**
 
@@ -116,4 +117,8 @@ Moreover; this subject is a up-to-date topic, so it seemed to me like a suitable
 
   -*Collection Method*: Downloaded annual state summary CSV from
     https://www.epa.gov/outdoor-air-quality-data
+
+    
+
+
 
