@@ -13,8 +13,8 @@
 1) [Introduction](#1-introduction)
 2) [Project Idea](#2-project-idea-and-objective)
 3) [Motivation](#3-motivation)
-4) [Project Flow Outline](#4-project-flow-outline)
-5) [Data Sources](#5-data-sources)
+4) [Data Sources and Information](#5-data-sources-and-information)
+5) [Methodology](#4-methodology)
 6) [Hypothesis](#6-hypothesis)
 
 
@@ -52,18 +52,7 @@ Moreover; this subject is a up-to-date topic, so it seemed to me like a suitable
 
 
 
-## 4. Project Flow Outline ##
-
-**a. Motivation and Project Idea**
-  -Decided on a relevant, up-to-date topic with a motivation concerning in personal future plans, curiosity and world problems.
-
-**b. Data Collection**
-  -Various government and trustworthy data sources examined. Useful and relevant data selected.
-### WILL BE UPDATED###
-
-
-
-## 5. Data Sources ##
+## 5. Data Sources and Information ##
 
 *Note: 2024 data will be used, since it is the only common and most recent year for all data*
 *Note: All data can be seen in the repository*
@@ -118,6 +107,38 @@ Moreover; this subject is a up-to-date topic, so it seemed to me like a suitable
 
   -*Collection Method*: Downloaded annual state summary CSV from
     https://www.epa.gov/outdoor-air-quality-data
+    
+
+## 4. Methodology ##
+
+**a. Motivation and Project Idea**
+  
+-Decided on a relevant, up-to-date topic with a motivation concerning in personal future plans, curiosity and world problems.
+
+**b. Data Collection**
+ 
+-Various government and trustworthy data sources examined. Useful and relevant data selected.
+
+**c. Exploratory Data Analysis**
+
+-Data cleaned and relevant information selected.
+  
+-Summary statistics calculated.
+  
+-Various visualisations for the data displayed.
+  
+-Correlations calculated.
+
+**d. Hypothesis Testing**
+
+-Shapiro-Wilk Test used to check normality in order to decide which hypothesis tests to be conducted.
+  
+-Spearmann Rank Correlation has been utilised to test the baseline hypothesis.
+  
+-Mann–Whitney U Test and Kruskal–Wallis Test used to test the deviation hypothesis.
+
+
+### WILL BE UPDATED###
 
 
 ## 6. Hypothesis ##   
